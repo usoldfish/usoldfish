@@ -14,7 +14,8 @@ Exploring AI Automation | Cross-Border E-Commerce | Product Engineering
 
 ### 📦 正在练手的独立项目产品 / Projects
 - **[MBTI 16 Personality Test - Premium]**: 专为移动端优化的爱马仕橙极简心理测评工具（已通过 GitHub Pages 部署上线）。
-    https://usoldfish.github.io/mbti-test/
+    省时版 https://usoldfish.github.io/mbti-test/
+    高级版 https://usoldfish.github.io/mbti-test2/
 - **[GitHub Trending Monitor]**: 基于 Google Apps Script + API 的全自动技术趋势追踪与邮件推送系统（自用高效冷启动源）。
 - **[Coming Soon]** 东南亚电商多语言爆款文案/视频自动化生成流水线...
 
